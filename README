@@ -1,0 +1,20 @@
+===============
+FSI Readme File
+===============
+
+FSI computes the selected inversion of p-cyclic matrices.
+It involves three major subroutines:
+(1) reduction;
+(2) bsofi;
+(3) wrapping.
+An example is provided in runFSI.F90.
+
+-----------
+Directories 
+-----------
+
+example ........... An example calling the FSI routines
+	
+src ............... Source code
+
+
