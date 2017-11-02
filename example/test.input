@@ -1,0 +1,13 @@
+ value |                         parameter: illustration
+-------|------------------------------------------------------------------------
+0      |mType: input matrix type: (0) random matrix; (1) hubbard matrix.
+1      |    m: number of input matrices.
+1      |   ns: number of sites, determines the block matrix dimension N = ns*ns.
+4      |    L: number of blocks.
+2      |    b: number of blocks in the reduced matrix in BCR.
+0      |    q: shift index, determines the pattern of selected cols.
+1      | beta: hubbard matrix configuration.
+1      |    t: hubbard matrix configuration.
+1      |sigma: hubbard matrix configuration.
+2      |    U: hubbard matrix configuration.
+-------|------------------------------------------------------------------------
